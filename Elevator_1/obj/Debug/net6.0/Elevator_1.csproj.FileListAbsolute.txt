@@ -1,0 +1,15 @@
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\bin\Debug\net6.0\Elevator_1.exe
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\bin\Debug\net6.0\Elevator_1.deps.json
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\bin\Debug\net6.0\Elevator_1.runtimeconfig.json
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\bin\Debug\net6.0\Elevator_1.dll
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\bin\Debug\net6.0\Elevator_1.pdb
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.csproj.AssemblyReference.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.AssemblyInfoInputs.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.AssemblyInfo.cs
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.csproj.CoreCompileInputs.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.dll
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\refint\Elevator_1.dll
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.pdb
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\Elevator_1.genruntimeconfig.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator_1\obj\Debug\net6.0\ref\Elevator_1.dll
